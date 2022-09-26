@@ -1,0 +1,43 @@
+#navbar {
+    flex-direction: column;
+    background-attachment: l;
+}
+#navbar ul li a {
+    font-size: 1rem;
+    padding: 0px 15px;
+    padding-bottom: 8px;
+    margin: 0px;
+}
+.page {
+    height: 370px;
+    padding: 3px 28px;
+}
+.home::before {
+    height: 480px;
+}
+.home p {
+    font-size: 13px;
+}
+.product {
+    flex-direction: column;
+}
+.product box {
+    padding: 14px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+}
+.brand {
+    flex-wrap: wrap;
+}
+.brand img {
+    width: 66px;
+    padding: 6px;
+    height: auto;
+}
+.primary {
+    font-size: 26px;
+}
+.btn {
+    font-size: 13px;
+    padding: 4px 8px;
+}
